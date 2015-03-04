@@ -1,2 +1,3 @@
 # swift-net-POST-GET
-针对于网络的POST和GET的小框架
+
+就是写着玩得,尝试着写了一个swift的m模型转化
